@@ -22,7 +22,3 @@ At Cryptalize, we specialize in safeguarding blockchain ecosystems by conducting
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify or expand on this based on your specific services or any additional information you’d like to include!
